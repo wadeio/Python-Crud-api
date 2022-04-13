@@ -65,10 +65,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://github.com/wadeio/Python-Crud-api](https://github.com/wadeio/Python-Crud-api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/wadeio/Python-Crud-api.git
    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 wadeio - wadeio595@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/wadeio/Python-Crud-api](https://github.com/wadeio/Python-Crud-api)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,14 +146,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wadeio/Python-Crud-api.svg?style=for-the-badge
+[contributors-url]: https://github.com/wadeio/Python-Crud-api/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wadeio/Python-Crud-api.svg?style=for-the-badge
+[forks-url]: https://github.com/wadeio/Python-Crud-api/network/members
+[stars-shield]: https://img.shields.io/github/stars/wadeio/Python-Crud-api.svg?style=for-the-badge
+[stars-url]: https://github.com/wadeio/Python-Crud-api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wadeio/Python-Crud-api.svg?style=for-the-badge
+[issues-url]: https://github.com/wadeio/Python-Crud-api/issues
+[license-shield]: https://img.shields.io/github/license/wadeio/Python-Crud-api.svg?style=for-the-badge
+[license-url]: https://github.com/wadeio/Python-Crud-api/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
